@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "acorn": "^7.1.1",
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "minimist": "^1.2.6"
   }
 }
